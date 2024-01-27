@@ -1,12 +1,12 @@
 # diletace_eroze
 Tento kód vytváří 3x3 matici náhodných čísel v rozsahu 1-10 a implementuje operace dilatace a eroze na této matici.
 ## Funkce
-## dilate(x=None, y=None)
+## dilate
 
 -   Provede dilataci buňky na zadaných souřadnicích (x, y), pokud jsou specifikovány.
 -   Pokud nejsou specifikovány žádné souřadnice, provede dilataci celé matice.
 
-## erode(x=None, y=None)
+## erode
 
 -   Provede erozi buňky na zadaných souřadnicích (x, y), pokud jsou specifikovány.
 -   Pokud nejsou specifikovány žádné souřadnice, provede erozi celé matice.
