@@ -19,17 +19,17 @@ Tento kód vytváří 3x3 matici náhodných čísel v rozsahu 1-10 a implementu
 
 ## Volby
 
-    **(d) dilatace: Umožňuje uživateli provést dilataci na celou matici nebo na konkrétní buňku.
-    **(e) eroze: Umožňuje uživateli provést erozi na celou matici nebo na konkrétní buňku.
-    **(k) konec: Ukončí program.
+-    (d) dilatace: Umožňuje uživateli provést dilataci na celou matici nebo na konkrétní buňku.
+-    (e) eroze: Umožňuje uživateli provést erozi na celou matici nebo na konkrétní buňku.
+-    (k) konec: Ukončí program.
 
 ## Příklad použití
  
-1.   **Vytištění aktuální matice.
-2.   **Uživatel zadá volbu dilatace (d).
-3.   **Uživatel zadá souřadnice dilatace nebo stiskne Enter pro dilataci celé matice.
-4.   **Matice je aktualizována podle provedené operace.
-5.   **Postup se opakuje, dokud uživatel nezvolí (k) konec.
+1.   Vytištění aktuální matice.
+2.   Uživatel zadá volbu dilatace (d).
+3.   Uživatel zadá souřadnice dilatace nebo stiskne Enter pro dilataci celé matice.
+4.   Matice je aktualizována podle provedené operace.
+5.   Postup se opakuje, dokud uživatel nezvolí (k) konec.
 ## Credits
 
 - **Developer**: Ondřej Kováč
