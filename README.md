@@ -24,9 +24,16 @@ Tento kód vytváří 3x3 matici náhodných čísel v rozsahu 1-10 a implementu
     **(k) konec: Ukončí program.
 
 ## Příklad použití
+ 
+1.   **Vytištění aktuální matice.
+2.   **Uživatel zadá volbu dilatace (d).
+3.   **Uživatel zadá souřadnice dilatace nebo stiskne Enter pro dilataci celé matice.
+4.   **Matice je aktualizována podle provedené operace.
+5.   **Postup se opakuje, dokud uživatel nezvolí (k) konec.
+## Credits
 
-    **Vytištění aktuální matice.
-    **Uživatel zadá volbu dilatace (d).
-    **Uživatel zadá souřadnice dilatace nebo stiskne Enter pro dilataci celé matice.
-    **Matice je aktualizována podle provedené operace.
-    **Postup se opakuje, dokud uživatel nezvolí (k) konec.
+- **Developer**: Ondřej Kováč
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
