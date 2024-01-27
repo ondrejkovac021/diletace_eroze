@@ -3,25 +3,25 @@ Tento kód vytváří 3x3 matici náhodných čísel v rozsahu 1-10 a implementu
 ## Funkce
 ## dilate(x=None, y=None)
 
-    **Provede dilataci buňky na zadaných souřadnicích (x, y), pokud jsou specifikovány.
-    **Pokud nejsou specifikovány žádné souřadnice, provede dilataci celé matice.
+-   Provede dilataci buňky na zadaných souřadnicích (x, y), pokud jsou specifikovány.
+-   Pokud nejsou specifikovány žádné souřadnice, provede dilataci celé matice.
 
 ## erode(x=None, y=None)
 
-    **Provede erozi buňky na zadaných souřadnicích (x, y), pokud jsou specifikovány.
-    **Pokud nejsou specifikovány žádné souřadnice, provede erozi celé matice.
+-   Provede erozi buňky na zadaných souřadnicích (x, y), pokud jsou specifikovány.
+-   Pokud nejsou specifikovány žádné souřadnice, provede erozi celé matice.
 
 ## Použití
 
-    **Matice je inicializována náhodnými čísly v rozsahu 1-10.
-   **V nekonečné smyčce program vypisuje aktuální stav matice.
-    **Uživatel má možnost provést dilataci, erozi nebo ukončit program.
+1.   Matice je inicializována náhodnými čísly v rozsahu 1-10.
+2.   V nekonečné smyčce program vypisuje aktuální stav matice.
+3.   Uživatel má možnost provést dilataci, erozi nebo ukončit program.
 
 ## Volby
 
--    (d) dilatace: Umožňuje uživateli provést dilataci na celou matici nebo na konkrétní buňku.
--    (e) eroze: Umožňuje uživateli provést erozi na celou matici nebo na konkrétní buňku.
--    (k) konec: Ukončí program.
+-    (d) **dilatace:** Umožňuje uživateli provést dilataci na celou matici nebo na konkrétní buňku.
+-    (e) **eroze:** Umožňuje uživateli provést erozi na celou matici nebo na konkrétní buňku.
+-    (k) **konec:** Ukončí program.
 
 ## Příklad použití
  
